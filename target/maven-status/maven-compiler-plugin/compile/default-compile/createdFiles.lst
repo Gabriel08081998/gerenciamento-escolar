@@ -1,0 +1,6 @@
+br\com\gerenciamentogscolar\service\UsuarioService.class
+br\com\gerenciamentogscolar\model\Usuario.class
+br\com\gerenciamentogscolar\model\UsuarioRepository.class
+br\com\gerenciamentogscolar\controller\UsuarioController.class
+br\com\gerenciamentogscolar\GerenciamentoEscolarApplication.class
+br\com\gerenciamentogscolar\service\impl\UsuarioServiceImpl.class
